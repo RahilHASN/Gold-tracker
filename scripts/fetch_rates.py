@@ -30,7 +30,7 @@ def to_text(page):
 
 
 def num(t, label):
-    m = re.search(label + r"[^|]*" + NUM, t)
+    m = re.search(label + r"[\s|]*(?:\([^)]*\)[\s|]*)?([\d,]+(?:\.\d+)?)", t)
     return float(m.group(1).replace(",", "")) if m else None
 
 
