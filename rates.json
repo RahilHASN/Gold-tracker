@@ -1,6 +1,13 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-10-09T05:15:00+00:00",
- "national": {"24": 15116, "22": 13856, "18": 11337, "mcx10": 150983, "comex": 4208.9, "updatedText": "Friday, 09 Oct 2026 10:45 AM IST"},
+ "fetchedAt": "2026-10-09T09:23:15+00:00",
+ "national": {
+  "24": 15144.0,
+  "22": 13882.0,
+  "18": 11358.0,
+  "mcx10": 151259.0,
+  "comex": 4210.6,
+  "updatedText": "Friday, 09 Oct 2026 14:50 PM IST"
+ },
  "cities": {}
 }
