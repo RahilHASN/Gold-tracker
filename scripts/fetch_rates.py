@@ -1,6 +1,6 @@
 """Reads Bullions.co.in (unofficial rate site) and writes rates.json for the Gold Tracker page.
 National rates every run; city pages about once an hour. Standard library only."""
-import datetime as dt, html as H, json, os, re, sys, time, urllib.request
+import datetime as dt, html as H, json, os, re, sys, time, urllib.error, urllib.request
 
 BASE = "https://bullions.co.in/"
 UA = "GoldTrackerPersonal/1.0 (small personal rate checker; polite polling)"
@@ -12,7 +12,15 @@ NUM = r"(?:\|\s*)+([\d,]+(?:\.\d+)?)"
 
 def get(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
-    return urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+    try:
+        r = urllib.request.urlopen(req, timeout=30)
+        body = r.read().decode("utf-8", "replace")
+        print("GET", url, "->", r.status, len(body), "bytes")
+        return body
+    except urllib.error.HTTPError as e:
+        print("HTTP ERROR", e.code, e.reason, "| server:", e.headers.get("server"), "| url:", url)
+        print("response start:", e.read()[:300])
+        raise
 
 
 def to_text(page):
@@ -51,8 +59,14 @@ def check(d, ref=None, tol=0.15):
 def main():
     old = json.load(open("rates.json")) if os.path.exists("rates.json") else {}
     now = dt.datetime.now(dt.timezone.utc)
-    nat = parse(get(BASE))
+    page = get(BASE)
+    nat = parse(page)
     print("national:", nat)
+    if not nat.get("24"):
+        t = to_text(page)
+        print("DIAGNOSTIC: text length", len(t))
+        print("DIAGNOSTIC start of text:", t[:300])
+        print("DIAGNOSTIC around 'Karat':", re.findall(r".{0,60}Karat.{0,80}", t)[:4])
     check(nat, old.get("national"), 0.15)
     data = {"source": "Bullions.co.in (unofficial)", "fetchedAt": now.isoformat(timespec="seconds"),
             "national": nat, "cities": dict(old.get("cities", {}))}
