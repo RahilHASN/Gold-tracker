@@ -1,13 +1,102 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-10-09T20:18:23+00:00",
+ "fetchedAt": "2026-10-10T00:13:53+00:00",
  "national": {
   "24": 15169.0,
   "22": 13905.0,
   "18": 11377.0,
   "mcx10": 151503.0,
-  "comex": 4219.1,
-  "updatedText": "Saturday, 10 Oct 2026 01:45 AM IST"
+  "comex": 4078.7,
+  "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
  },
- "cities": {}
+ "cities": {
+  "Mumbai": {
+   "24": 15142.0,
+   "22": 13880.0,
+   "18": 11357.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Delhi": {
+   "24": 15116.0,
+   "22": 13856.0,
+   "18": 11337.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Chennai": {
+   "24": 15186.0,
+   "22": 13921.0,
+   "18": 11390.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Kolkata": {
+   "24": 15122.0,
+   "22": 13862.0,
+   "18": 11342.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Bengaluru": {
+   "24": 15154.0,
+   "22": 13891.0,
+   "18": 11366.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Hyderabad": {
+   "24": 15166.0,
+   "22": 13902.0,
+   "18": 11375.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Ahmedabad": {
+   "24": 15162.0,
+   "22": 13899.0,
+   "18": 11372.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Pune": {
+   "24": 15142.0,
+   "22": 13880.0,
+   "18": 11357.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Surat": {
+   "24": 15162.0,
+   "22": 13899.0,
+   "18": 11372.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Jaipur": {
+   "24": 15140.0,
+   "22": 13878.0,
+   "18": 11355.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  },
+  "Thiruvananthapuram": {
+   "24": 15188.0,
+   "22": 13922.0,
+   "18": 11391.0,
+   "mcx10": 151503.0,
+   "comex": 4078.7,
+   "updatedText": "Saturday, 10 Oct 2026 05:40 AM IST"
+  }
+ }
 }
