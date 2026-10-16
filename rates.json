@@ -1,102 +1,102 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-10-16T20:41:35+00:00",
+ "fetchedAt": "2026-10-16T23:02:43+00:00",
  "national": {
   "24": 14827.0,
   "22": 13591.0,
   "18": 11120.0,
   "mcx10": 148000.0,
-  "comex": 4189.8,
-  "updatedText": "Saturday, 17 Oct 2026 02:10 AM IST"
+  "comex": 4186.7,
+  "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
  },
  "cities": {
   "Mumbai": {
-   "24": 14757.0,
-   "22": 13527.0,
-   "18": 11068.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
-  },
-  "Delhi": {
-   "24": 14732.0,
-   "22": 13504.0,
-   "18": 11049.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
-  },
-  "Chennai": {
    "24": 14800.0,
    "22": 13567.0,
    "18": 11100.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
+  },
+  "Delhi": {
+   "24": 14775.0,
+   "22": 13544.0,
+   "18": 11081.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
+  },
+  "Chennai": {
+   "24": 14843.0,
+   "22": 13606.0,
+   "18": 11132.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Kolkata": {
-   "24": 14738.0,
-   "22": 13510.0,
-   "18": 11054.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14780.0,
+   "22": 13548.0,
+   "18": 11085.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Bengaluru": {
-   "24": 14769.0,
-   "22": 13538.0,
-   "18": 11077.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14812.0,
+   "22": 13578.0,
+   "18": 11109.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Hyderabad": {
-   "24": 14781.0,
-   "22": 13549.0,
-   "18": 11086.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14824.0,
+   "22": 13589.0,
+   "18": 11118.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Ahmedabad": {
-   "24": 14777.0,
-   "22": 13546.0,
-   "18": 11083.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14820.0,
+   "22": 13585.0,
+   "18": 11115.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Pune": {
-   "24": 14757.0,
-   "22": 13527.0,
-   "18": 11068.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14800.0,
+   "22": 13567.0,
+   "18": 11100.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Surat": {
-   "24": 14777.0,
-   "22": 13546.0,
-   "18": 11083.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14820.0,
+   "22": 13585.0,
+   "18": 11115.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Jaipur": {
-   "24": 14755.0,
-   "22": 13525.0,
-   "18": 11066.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14798.0,
+   "22": 13565.0,
+   "18": 11099.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   },
   "Thiruvananthapuram": {
-   "24": 14802.0,
-   "22": 13569.0,
-   "18": 11102.0,
-   "mcx10": 147597.0,
-   "comex": 4175.7,
-   "updatedText": "Thursday, 15 Oct 2026 19:35 PM IST"
+   "24": 14845.0,
+   "22": 13608.0,
+   "18": 11134.0,
+   "mcx10": 148000.0,
+   "comex": 4186.7,
+   "updatedText": "Saturday, 17 Oct 2026 04:30 AM IST"
   }
  }
 }
