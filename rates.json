@@ -1,102 +1,102 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-10-19T05:21:45+00:00",
+ "fetchedAt": "2026-10-19T11:05:44+00:00",
  "national": {
-  "24": 14854.0,
-  "22": 13616.0,
-  "18": 11141.0,
-  "mcx10": 148248.0,
-  "comex": 4202.3,
-  "updatedText": "Monday, 19 Oct 2026 10:50 AM IST"
+  "24": 14828.0,
+  "22": 13592.0,
+  "18": 11121.0,
+  "mcx10": 147989.0,
+  "comex": 4190.1,
+  "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
  },
  "cities": {
   "Mumbai": {
    "24": 14801.0,
    "22": 13568.0,
    "18": 11101.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Delhi": {
    "24": 14776.0,
    "22": 13545.0,
    "18": 11082.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Chennai": {
    "24": 14844.0,
    "22": 13607.0,
    "18": 11133.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Kolkata": {
    "24": 14782.0,
    "22": 13550.0,
    "18": 11087.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Bengaluru": {
    "24": 14813.0,
    "22": 13579.0,
    "18": 11110.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Hyderabad": {
    "24": 14825.0,
    "22": 13590.0,
    "18": 11119.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Ahmedabad": {
    "24": 14821.0,
    "22": 13586.0,
    "18": 11116.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Pune": {
    "24": 14801.0,
    "22": 13568.0,
    "18": 11101.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Surat": {
    "24": 14821.0,
    "22": 13586.0,
    "18": 11116.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Jaipur": {
    "24": 14799.0,
    "22": 13566.0,
    "18": 11099.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   },
   "Thiruvananthapuram": {
    "24": 14846.0,
    "22": 13609.0,
    "18": 11135.0,
-   "mcx10": 148000.0,
-   "comex": 4186.7,
-   "updatedText": "Sunday, 18 Oct 2026 00:40 AM IST"
+   "mcx10": 147989.0,
+   "comex": 4190.1,
+   "updatedText": "Monday, 19 Oct 2026 16:35 PM IST"
   }
  }
 }
