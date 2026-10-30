@@ -1,102 +1,102 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-10-30T15:16:44+00:00",
+ "fetchedAt": "2026-10-30T20:00:40+00:00",
  "national": {
-  "24": 13941.0,
-  "22": 12779.0,
-  "18": 10456.0,
-  "mcx10": 139008.0,
-  "comex": 3928.3,
-  "updatedText": "Friday, 30 Oct 2026 20:45 PM IST"
+  "24": 13883.0,
+  "22": 12726.0,
+  "18": 10412.0,
+  "mcx10": 138419.0,
+  "comex": 3884.8,
+  "updatedText": "Saturday, 31 Oct 2026 01:30 AM IST"
  },
  "cities": {
   "Mumbai": {
-   "24": 14250.0,
-   "22": 13063.0,
-   "18": 10688.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13858.0,
+   "22": 12703.0,
+   "18": 10394.0,
+   "mcx10": 138419.0,
+   "comex": 3884.8,
+   "updatedText": "Saturday, 31 Oct 2026 01:30 AM IST"
   },
   "Delhi": {
-   "24": 14225.0,
-   "22": 13040.0,
-   "18": 10669.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13834.0,
+   "22": 12681.0,
+   "18": 10376.0,
+   "mcx10": 138419.0,
+   "comex": 3883.7,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Chennai": {
-   "24": 14291.0,
-   "22": 13100.0,
-   "18": 10718.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13898.0,
+   "22": 12740.0,
+   "18": 10424.0,
+   "mcx10": 138419.0,
+   "comex": 3883.7,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Kolkata": {
-   "24": 14231.0,
-   "22": 13045.0,
-   "18": 10673.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13839.0,
+   "22": 12686.0,
+   "18": 10379.0,
+   "mcx10": 138419.0,
+   "comex": 3883.7,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Bengaluru": {
-   "24": 14261.0,
-   "22": 13073.0,
-   "18": 10696.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13868.0,
+   "22": 12712.0,
+   "18": 10401.0,
+   "mcx10": 138419.0,
+   "comex": 3883.7,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Hyderabad": {
-   "24": 14416.0,
-   "22": 13215.0,
-   "18": 10812.0,
-   "mcx10": 143790.0,
-   "comex": 4050.1,
-   "updatedText": "Thursday, 29 Oct 2026 10:35 AM IST"
+   "24": 13879.0,
+   "22": 12722.0,
+   "18": 10409.0,
+   "mcx10": 138419.0,
+   "comex": 3883.7,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Ahmedabad": {
-   "24": 14269.0,
-   "22": 13080.0,
-   "18": 10702.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13876.0,
+   "22": 12720.0,
+   "18": 10407.0,
+   "mcx10": 138419.0,
+   "comex": 3884.8,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Pune": {
-   "24": 14250.0,
-   "22": 13063.0,
-   "18": 10688.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13858.0,
+   "22": 12703.0,
+   "18": 10394.0,
+   "mcx10": 138419.0,
+   "comex": 3883.7,
+   "updatedText": "Saturday, 31 Oct 2026 01:25 AM IST"
   },
   "Surat": {
-   "24": 14269.0,
-   "22": 13080.0,
-   "18": 10702.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13876.0,
+   "22": 12720.0,
+   "18": 10407.0,
+   "mcx10": 138419.0,
+   "comex": 3884.8,
+   "updatedText": "Saturday, 31 Oct 2026 01:30 AM IST"
   },
   "Jaipur": {
-   "24": 14248.0,
-   "22": 13061.0,
-   "18": 10686.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13856.0,
+   "22": 12701.0,
+   "18": 10392.0,
+   "mcx10": 138419.0,
+   "comex": 3884.8,
+   "updatedText": "Saturday, 31 Oct 2026 01:30 AM IST"
   },
   "Thiruvananthapuram": {
-   "24": 14293.0,
-   "22": 13102.0,
-   "18": 10720.0,
-   "mcx10": 142351.0,
-   "comex": 4031.4,
-   "updatedText": "Friday, 30 Oct 2026 03:30 AM IST"
+   "24": 13900.0,
+   "22": 12742.0,
+   "18": 10425.0,
+   "mcx10": 138419.0,
+   "comex": 3884.8,
+   "updatedText": "Saturday, 31 Oct 2026 01:30 AM IST"
   }
  }
 }
