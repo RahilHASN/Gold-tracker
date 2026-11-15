@@ -1,13 +1,13 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-11-15T12:58:29+00:00",
+ "fetchedAt": "2026-11-15T19:19:28+00:00",
  "national": {
-  "24": 13732.0,
-  "22": 12588.0,
-  "18": 10299.0,
+  "24": 13733.0,
+  "22": 12589.0,
+  "18": 10300.0,
   "mcx10": 136750.0,
-  "comex": 3887.6,
-  "updatedText": "Sunday, 15 Nov 2026 18:25 PM IST"
+  "comex": 3886.3,
+  "updatedText": "Monday, 16 Nov 2026 00:45 AM IST"
  },
  "cities": {
   "Mumbai": {
