@@ -1,102 +1,102 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-11-17T21:21:28+00:00",
+ "fetchedAt": "2026-11-18T03:04:02+00:00",
  "national": {
   "24": 13484.0,
   "22": 12360.0,
   "18": 10113.0,
   "mcx10": 134250.0,
-  "comex": 3852.0,
-  "updatedText": "Wednesday, 18 Nov 2026 02:50 AM IST"
+  "comex": 3797.6,
+  "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
  },
  "cities": {
   "Mumbai": {
-   "24": 13707.0,
-   "22": 12565.0,
-   "18": 10280.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13460.0,
+   "22": 12338.0,
+   "18": 10095.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Delhi": {
-   "24": 13683.0,
-   "22": 12543.0,
-   "18": 10262.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13436.0,
+   "22": 12316.0,
+   "18": 10077.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Chennai": {
-   "24": 13747.0,
-   "22": 12601.0,
-   "18": 10310.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13499.0,
+   "22": 12374.0,
+   "18": 10124.0,
+   "mcx10": 134250.0,
+   "comex": 3799.1,
+   "updatedText": "Wednesday, 18 Nov 2026 08:25 AM IST"
   },
   "Kolkata": {
-   "24": 13689.0,
-   "22": 12548.0,
-   "18": 10267.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13442.0,
+   "22": 12322.0,
+   "18": 10082.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Bengaluru": {
-   "24": 13718.0,
-   "22": 12575.0,
-   "18": 10289.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13470.0,
+   "22": 12348.0,
+   "18": 10103.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Hyderabad": {
-   "24": 13729.0,
-   "22": 12585.0,
-   "18": 10297.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13481.0,
+   "22": 12358.0,
+   "18": 10111.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Ahmedabad": {
-   "24": 13725.0,
-   "22": 12581.0,
-   "18": 10294.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13477.0,
+   "22": 12354.0,
+   "18": 10108.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Pune": {
-   "24": 13707.0,
-   "22": 12565.0,
-   "18": 10280.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13460.0,
+   "22": 12338.0,
+   "18": 10095.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Surat": {
-   "24": 13725.0,
-   "22": 12581.0,
-   "18": 10294.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13477.0,
+   "22": 12354.0,
+   "18": 10108.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Jaipur": {
-   "24": 13705.0,
-   "22": 12563.0,
-   "18": 10279.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13458.0,
+   "22": 12337.0,
+   "18": 10094.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   },
   "Thiruvananthapuram": {
-   "24": 13749.0,
-   "22": 12603.0,
-   "18": 10312.0,
-   "mcx10": 136750.0,
-   "comex": 3887.6,
-   "updatedText": "Sunday, 15 Nov 2026 01:30 AM IST"
+   "24": 13501.0,
+   "22": 12376.0,
+   "18": 10126.0,
+   "mcx10": 134250.0,
+   "comex": 3797.6,
+   "updatedText": "Wednesday, 18 Nov 2026 08:30 AM IST"
   }
  }
 }
