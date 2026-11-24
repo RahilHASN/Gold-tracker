@@ -1,102 +1,102 @@
 {
  "source": "Bullions.co.in (unofficial)",
- "fetchedAt": "2026-11-24T05:49:58+00:00",
+ "fetchedAt": "2026-11-24T17:12:23+00:00",
  "national": {
-  "24": 12664.0,
-  "22": 11609.0,
-  "18": 9498.0,
-  "mcx10": 126021.0,
-  "comex": 3635.0,
-  "updatedText": "Tuesday, 24 Nov 2026 11:15 AM IST"
+  "24": 12310.0,
+  "22": 11284.0,
+  "18": 9233.0,
+  "mcx10": 122500.0,
+  "comex": 3562.7,
+  "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
  },
  "cities": {
   "Mumbai": {
-   "24": 12229.0,
-   "22": 11210.0,
-   "18": 9172.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:35 AM IST"
+   "24": 12287.0,
+   "22": 11263.0,
+   "18": 9215.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Delhi": {
-   "24": 12208.0,
-   "22": 11191.0,
-   "18": 9156.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12266.0,
+   "22": 11244.0,
+   "18": 9200.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Chennai": {
-   "24": 12265.0,
-   "22": 11243.0,
-   "18": 9199.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12323.0,
+   "22": 11296.0,
+   "18": 9242.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Kolkata": {
-   "24": 12213.0,
-   "22": 11195.0,
-   "18": 9160.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:25 AM IST"
+   "24": 12271.0,
+   "22": 11248.0,
+   "18": 9203.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Bengaluru": {
-   "24": 12239.0,
-   "22": 11219.0,
-   "18": 9179.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12297.0,
+   "22": 11272.0,
+   "18": 9223.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Hyderabad": {
-   "24": 12249.0,
-   "22": 11228.0,
-   "18": 9187.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12307.0,
+   "22": 11281.0,
+   "18": 9230.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Ahmedabad": {
-   "24": 12245.0,
-   "22": 11225.0,
-   "18": 9184.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12304.0,
+   "22": 11279.0,
+   "18": 9228.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Pune": {
-   "24": 12229.0,
-   "22": 11210.0,
-   "18": 9172.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:25 AM IST"
+   "24": 12287.0,
+   "22": 11263.0,
+   "18": 9215.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Surat": {
-   "24": 12245.0,
-   "22": 11225.0,
-   "18": 9184.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12304.0,
+   "22": 11279.0,
+   "18": 9228.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Jaipur": {
-   "24": 12228.0,
-   "22": 11209.0,
-   "18": 9171.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12286.0,
+   "22": 11262.0,
+   "18": 9215.0,
+   "mcx10": 122500.0,
+   "comex": 3562.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:40 PM IST"
   },
   "Thiruvananthapuram": {
-   "24": 12267.0,
-   "22": 11245.0,
-   "18": 9200.0,
-   "mcx10": 121949.0,
-   "comex": 3539.0,
-   "updatedText": "Saturday, 21 Nov 2026 04:30 AM IST"
+   "24": 12311.0,
+   "22": 11285.0,
+   "18": 9233.0,
+   "mcx10": 122364.0,
+   "comex": 3570.7,
+   "updatedText": "Tuesday, 24 Nov 2026 22:30 PM IST"
   }
  }
 }
